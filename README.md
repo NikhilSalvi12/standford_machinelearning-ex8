@@ -1,5 +1,9 @@
 # standford_machinelearning-ex8
 Anomaly Detection and Recommender Systems
+This assignment is completed as per the methods thought by Andrew Ng, in the Machine-Learning course on Coursera.
+
+Languages used:-
+* Octave.
 
 Objectives:-
 * Estimation of parameters for the given data.
